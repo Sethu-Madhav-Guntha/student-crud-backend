@@ -1,6 +1,6 @@
 {
   "name": "student-crud-backend",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Student Creation, Updation, Deletion Operations.",
   "homepage": "https://github.com/Sethu-Madhav-Guntha/student-crud-backend#readme",
   "bugs": {
@@ -15,6 +15,12 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.3.0"
   }
 }
