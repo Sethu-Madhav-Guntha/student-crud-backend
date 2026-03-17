@@ -1,0 +1,20 @@
+{
+  "name": "student-crud-backend",
+  "version": "1.0.0",
+  "description": "Student Creation, Updation, Deletion Operations.",
+  "homepage": "https://github.com/Sethu-Madhav-Guntha/student-crud-backend#readme",
+  "bugs": {
+    "url": "https://github.com/Sethu-Madhav-Guntha/student-crud-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sethu-Madhav-Guntha/student-crud-backend.git"
+  },
+  "license": "ISC",
+  "author": "Sethu Madhav Guntha",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
